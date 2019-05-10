@@ -1,0 +1,11 @@
+{
+  "name": "homeapi",
+  "version": "1.0.0",
+  "description": "Startpage with home devices and shit",
+  "main": "hue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoffer Rydeståhl",
+  "license": "ISC"
+}
